@@ -1,4 +1,4 @@
-package com.funcoding.java8;
+package com.funcoding.java8.lambda;
 
 import java.util.ArrayList;
 import java.util.Arrays;

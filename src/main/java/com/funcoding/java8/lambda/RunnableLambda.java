@@ -1,4 +1,4 @@
-package com.funcoding.java8;
+package com.funcoding.java8.lambda;
 
 /**
  * Created by s.ahmedouali on 15/10/2015.

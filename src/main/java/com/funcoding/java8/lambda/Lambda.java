@@ -1,4 +1,4 @@
-package com.funcoding.java8;
+package com.funcoding.java8.lambda;
 
 interface Filter {
     boolean accept(String name);
